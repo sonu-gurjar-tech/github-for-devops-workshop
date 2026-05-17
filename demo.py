@@ -1,7 +1,8 @@
 def my_function():
 
-    a = 5
+    a = 10
     return a 
 
 
 my_function()
+print("Updated by Sonu")
