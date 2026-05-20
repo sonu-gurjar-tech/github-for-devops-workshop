@@ -15,15 +15,15 @@ git restore testing.py
 clear
 git status
 
-git remote add origin https://github.com/LondheShubham153/github-for-devops-workshop.git
-git remote -v
+git remote add origin https://github.com/sonu-gurjar-tech/github-for-devops-workshop
+remote -v
 git status
  
-git remote set-url origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+git remote set-url origin https://github.com/sonu-gurjar-tech/github-for-devops-workshop
 clear
 git remote -v
 git push origin master
 clear
 
 
-this is some new changes
+this is some new change
